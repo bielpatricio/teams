@@ -39,7 +39,8 @@ $ cd teams
 $ npm i
 # Run the application in development mode
 $ expo start
-# The application will open, so you will have to open the `Expo Go` app on your smartphone and read the QR Code on your terminal
+# The application will runing, so you will have to open the `Expo Go` app on your smartphone 
+# and read the QR Code on your terminal
 ```
 
 # Prints e Layout
