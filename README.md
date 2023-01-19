@@ -54,7 +54,9 @@ The application layout is available on Figma:
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="src/assets/logo.png" alt="Foto 1"  height="700">
+  <img src="https://user-images.githubusercontent.com/32223762/213466777-d8ed09b0-14bd-4fca-add2-d214046bb2b5.png" alt="Foto 1"  height="700">
+  <img src="https://user-images.githubusercontent.com/32223762/213467069-f4f39fca-eff0-4cd0-9b22-6d7dab6b362c.png" alt="Foto 1"  height="700">
+  <img src="https://user-images.githubusercontent.com/32223762/213467165-f1ab44f8-2f4e-4955-a7da-955fcea4ed3c.png" alt="Foto 1"  height="700">
   <br>
 
 <br>
